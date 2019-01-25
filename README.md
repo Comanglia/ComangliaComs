@@ -3,7 +3,7 @@ Max Performance config for most decent PCs
 
 The primary goal of this config was to build off of the previous work done by Chris and I along with the spectacular updates done by Mastercoms. In order to off the best performance for Systems that have relatively Good/New hardware. This config is also aimed more at players who play on servers that use Competitive League Configs.
 
-Minimum System requirements
+System Requirements
 
 64-bit OS (I'd imagine 32bit OS's would still work but I have not tested it)
 
